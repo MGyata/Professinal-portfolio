@@ -11,4 +11,4 @@
 # Site Link
 https://mgyata.github.io/Professinal-portfolio/
 ![Portfolio Homepage](assets\images\portfolio-image.png)
---*
+

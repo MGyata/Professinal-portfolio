@@ -13,3 +13,7 @@ https://mgyata.github.io/Professinal-portfolio/
 
 ![Portfolio Homepage](./assets/images/portfolio-image.png)
 
+
+# Authors
+Made by Matthew Guzman
+

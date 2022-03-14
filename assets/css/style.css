@@ -168,6 +168,9 @@ button:hover{
 	width: 100%;
 	padding: 100px 0px;
 }
+.title{
+	display: flex;
+}
 .title h2{
 	color: white;
 	font-size: 75px;
@@ -180,6 +183,7 @@ button:hover{
 	justify-content: center;
 	align-items: center;
 	min-height: 400px;
+	flex-wrap: wrap;
 }
 .card{
 	height: 365px;
